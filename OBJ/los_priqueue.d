@@ -1,0 +1,11 @@
+..\obj\los_priqueue.o: ..\LiteOS\kernel\base\core\los_priqueue.c
+..\obj\los_priqueue.o: ..\LiteOS\kernel\base\core\los_priqueue.inc
+..\obj\los_priqueue.o: ..\LiteOS\kernel\base\include\los_priqueue.ph
+..\obj\los_priqueue.o: ..\LiteOS\kernel\include\los_list.h
+..\obj\los_priqueue.o: ..\LiteOS\kernel\include\los_typedef.h
+..\obj\los_priqueue.o: ..\LiteOS\OS_CONFIG\los_builddef.h
+..\obj\los_priqueue.o: ..\LiteOS\kernel\include\los_compiler.h
+..\obj\los_priqueue.o: ..\LiteOS\kernel\base\include\los_base.ph
+..\obj\los_priqueue.o: ..\LiteOS\kernel\include\los_base.h
+..\obj\los_priqueue.o: ..\LiteOS\kernel\include\los_config.h
+..\obj\los_priqueue.o: ..\LiteOS\OS_CONFIG\target_config.h

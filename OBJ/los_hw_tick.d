@@ -1,0 +1,11 @@
+..\obj\los_hw_tick.o: ..\LiteOS\arch\arm\arm-m\src\los_hw_tick.c
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\base\include\los_tick.ph
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_tick.h
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_errno.h
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_typedef.h
+..\obj\los_hw_tick.o: ..\LiteOS\OS_CONFIG\los_builddef.h
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_compiler.h
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_err.h
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_base.h
+..\obj\los_hw_tick.o: ..\LiteOS\kernel\include\los_config.h
+..\obj\los_hw_tick.o: ..\LiteOS\OS_CONFIG\target_config.h

@@ -1,0 +1,11 @@
+..\obj\los_mux.o: ..\LiteOS\kernel\base\ipc\los_mux.c
+..\obj\los_mux.o: ..\LiteOS\kernel\base\ipc\los_mux.inc
+..\obj\los_mux.o: ..\LiteOS\kernel\base\include\los_mux.ph
+..\obj\los_mux.o: ..\LiteOS\kernel\base\include\los_task.ph
+..\obj\los_mux.o: ..\LiteOS\kernel\include\los_task.h
+..\obj\los_mux.o: ..\LiteOS\kernel\include\los_base.h
+..\obj\los_mux.o: ..\LiteOS\OS_CONFIG\los_builddef.h
+..\obj\los_mux.o: ..\LiteOS\kernel\include\los_compiler.h
+..\obj\los_mux.o: ..\LiteOS\kernel\include\los_typedef.h
+..\obj\los_mux.o: ..\LiteOS\kernel\include\los_config.h
+..\obj\los_mux.o: ..\LiteOS\OS_CONFIG\target_config.h

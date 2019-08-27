@@ -1,0 +1,10 @@
+..\obj\los_sem.o: ..\LiteOS\kernel\base\ipc\los_sem.c
+..\obj\los_sem.o: ..\LiteOS\kernel\base\ipc\los_sem.inc
+..\obj\los_sem.o: ..\LiteOS\kernel\base\include\los_sem.ph
+..\obj\los_sem.o: ..\LiteOS\kernel\include\los_sem.h
+..\obj\los_sem.o: ..\LiteOS\kernel\include\los_base.h
+..\obj\los_sem.o: ..\LiteOS\OS_CONFIG\los_builddef.h
+..\obj\los_sem.o: ..\LiteOS\kernel\include\los_compiler.h
+..\obj\los_sem.o: ..\LiteOS\kernel\include\los_typedef.h
+..\obj\los_sem.o: ..\LiteOS\kernel\include\los_config.h
+..\obj\los_sem.o: ..\LiteOS\OS_CONFIG\target_config.h
